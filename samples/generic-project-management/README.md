@@ -1,14 +1,17 @@
-# Customise SharePoint Online Columns Using JSON - Column Formatting
+<BR># Customise SharePoint Online Columns Using JSON - Column Formatting
 
 ### Risk Register columns formatting
-Risk register where there are two columns formatted i) ‘Risk Score’ (a calculated column) is formatted based on the condition and ii) ‘Risk Status Level’ is formatted with icons / colors. You can use other icon from Office Graph.
-![Alt text](screenshot.png)
+Risk register where there are two columns formatted <BR>
+1) ‘Risk Score’ (a calculated column) is formatted based on the condition and <BR>
+2) ‘Risk Status’ is formatted with icons/change. <BR>
+You can use other icon from Office Graph. <BR>
+![Alt text](screenshot2.png)
 
 In the risk level change status json file, `@Change` is the internal fieldname. Please replace as appropriate.
 
 ### Project Register column formatting
 Project Register where ‘Current Status’ column is formatted based on the RYAG status.
-![Alt text](screenshot2.png)
+![Alt text](screenshot1.png)
 
 <table>
 <thead>
