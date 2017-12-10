@@ -1,4 +1,4 @@
-# Customise SharePoint Online Columns Using JSON - Column Formatting
+## Customise Columns Using JSON - Column Formatting
 
 ## Risk Register columns formatting
 Risk register where there are two columns formatted <BR>
